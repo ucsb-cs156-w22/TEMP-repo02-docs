@@ -1,0 +1,14 @@
+
+title: Documentation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+repo_name: "This-should-be-overridden-by-github-actions-script"
+repo: ucsb-cs156-w22/TEMP-repo02
+owner: ucsb-cs156-w22
+repo_name: TEMP-repo02
